@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Pink Venom",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2026-02-08T06:32:16.336719Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pink Venom",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/01_Pink_Venom_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pink Venom",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/02_Pink_Venom_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pink Venom",
+      "artist": "Blackpink",
+      "has_synced": true,
+      "path": "select/03_Pink_Venom_Blackpink.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pink Venom",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/04_Pink_Venom_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pink Venom",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/05_Pink_Venom_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pink Venom \"en español\"",
+      "artist": "Mishi Chwan",
+      "has_synced": false,
+      "path": "select/06_Pink_Venom__en_español_Mishi_Chwan.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pink Venom",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/07_Pink_Venom_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BLACKPINK - ‘Pink Venom’ M/V",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/08_BLACKPINK_-_‘Pink_Venom’_M_V_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pink Venom",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/09_Pink_Venom_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pink Venom (Live)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/10_Pink_Venom_(Live)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pink Venom",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/11_Pink_Venom_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pink Venom",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/12_Pink_Venom_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "BLACKPINK - ‘Pink Venom’ M/V",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/13_BLACKPINK_-_‘Pink_Venom’_M_V_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pink Venom",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/14_Pink_Venom_BLACKPINK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pink Venom",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_Pink_Venom_BLACKPINK.txt"
+    }
+  ]
+}
